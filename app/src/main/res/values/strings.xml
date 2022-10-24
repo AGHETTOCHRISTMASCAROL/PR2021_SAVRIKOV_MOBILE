@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">CarGame</string>
+    <string name="app_name">CarGo</string>
+    <string name="go">"Start game"</string>
 </resources>
